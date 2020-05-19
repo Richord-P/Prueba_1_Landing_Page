@@ -1,0 +1,254 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@500&display=swap');
+/* CSS Document */
+#hero{
+	background-image: url("../img/slider1_slide2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 200px;
+	
+}
+.titulo{
+	font-family: 'Oswald', sans-serif;
+}
+.cont{
+	font-family: 'Montserrat', sans-serif;
+}
+
+#hero h1{
+	color: #fff;
+	text-align: center;
+	padding-top: 300px;
+	font-size: 70px
+}
+#hero p{
+	text-align: center;
+	color: #898989;
+	font-size: 20px;
+}
+
+.btn-azul{
+	background-color: #41c1fe;
+	border-radius: 100px;
+	color: #fff;
+}
+.btn-blanco{
+	background-color: #fff;
+	border-radius: 100px;
+	color: #41c1fe;
+}
+
+#shoes .btn-azul, .btn-blanco{
+	font-size: 25px;
+	margin-top:  40px;
+	padding: 10px;
+	
+}
+#hero .btn-azul, .btn-blanco{
+	font-size: 25px;
+	margin-top:  40px;
+	padding: 10px;
+}
+#menu a{
+	color: #fff;
+}
+.botones2{
+	padding-left: 43%
+}
+
+
+.btn1{
+	border: solid 1px;
+	
+}
+
+
+.btn-1{
+	border: solid 1px;
+	border-radius: 0;
+}
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+	
+}
+
+#featured{
+	background-color: #f3f3f3;
+	color: #fff;
+	padding-top: 50px;
+}
+#featured .img1{
+	background-image: url("../img/men-running.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#featured .img2{
+	background-image: url("../img/women-runnig.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#featured .img3{
+	background-color:  #41c1fe;
+		
+}
+#featured h1{
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+#n-product h1{
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 70px;
+	color: #fff;
+
+}
+
+#featured article{
+
+	margin: 30px;
+}
+#n-product article{
+
+	margin: 30px;
+}
+.info-p{
+	background-color: #fff;
+	color: #888585;
+	text-align: center;
+	
+}
+.product{
+	
+margin: 90px;
+}
+
+.info-p a{
+	margin-left: 50px;
+}
+#featured h1{
+	font-size: 60px;
+		color: #3c3838;
+}
+
+#featured .pics h1{
+	font-size: 60px;
+		color: #fff;
+}
+
+#n-product .pics h1{
+	font-size: 60px;
+		color: #fff;
+}
+
+#featured .ddd{
+	color: #3c3838;
+	padding-top: 40px;
+	text-align: center;
+	font-size: 10px
+}
+
+#n-product .ddd{
+	color: #3c3838;
+	padding-top: 40px;
+	text-align: center;
+	font-size: 10px
+}
+
+#shoes {
+	background-image: url("../img/bg_action.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 100px;
+	
+
+}
+
+#shoes h1{
+	color: #fff;
+	padding-top: 70px;
+}
+#shoes p{
+	color: #888585;
+}
+#shoes h2{
+	color: #41c1fe;
+}
+
+#shoes span{
+	color: #41c1fe;
+}
+
+#new .img1{
+	background-image: url( "../img/service-1-370x330.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+#new .img2{
+	background-image: url( "../img/service-2-1170x658.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#new .img3{
+	background-image: url( "../img/service-3-1170x658.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#new article{
+	margin: 30px;
+	padding-bottom: 90px;
+}
+
+#new article h1{
+	color: #fff;
+	padding-top: 80px;
+	text-align: center;
+}
+
+#new h1{
+	text-align: center;
+}
+
+#new p{
+	text-align: center;
+}
+footer{
+	background-color:  #383838;
+	color: #fff;
+	padding: 50px;
+}
+
+.redes {
+    color: #ffffff;
+}
+
+.redes i {
+    background-color: #464646 !important;
+    color: white;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 100%;
+	border: 1px solid #FFFFFF;
+	
+}
+
+
+.redes{
+	background-color: #383838;
+	
+}
+
